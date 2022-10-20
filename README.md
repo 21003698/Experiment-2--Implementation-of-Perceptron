@@ -119,11 +119,11 @@ plt.show()
  ```
  ### Output
  
+ ![n1](https://user-images.githubusercontent.com/93427522/196998934-8c45bcd6-f800-44c5-aade-94442107935e.jpg)
 
+![n2](https://user-images.githubusercontent.com/93427522/196998986-96762d88-33f0-460a-a901-5df21ba58711.jpg)
 
-
-
- 
+![n3](https://user-images.githubusercontent.com/93427522/196999009-5c2b1c5c-1c45-4f9c-a9d9-58e585f4b9d8.jpg)
 
  ### Result
  Thus a perceptron for classification is implemented using python.
